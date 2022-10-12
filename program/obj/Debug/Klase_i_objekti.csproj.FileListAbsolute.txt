@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Klase_i_objekti\bin\Debug\Klase_i_objekti.exe.config
+C:\Users\ucenik\source\repos\Klase_i_objekti\bin\Debug\Klase_i_objekti.exe
+C:\Users\ucenik\source\repos\Klase_i_objekti\bin\Debug\Klase_i_objekti.pdb
+C:\Users\ucenik\source\repos\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Klase_i_objekti\obj\Debug\Klase_i_objekti.exe
+C:\Users\ucenik\source\repos\Klase_i_objekti\obj\Debug\Klase_i_objekti.pdb
